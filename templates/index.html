@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- <style>
+            h1{color:blue;}
+        </style> -->
+        <title>10 primeros paises</title>
+    </head>
+    <body style = "background:darkslategray">
+        <style>
+                table#medallero{
+                    width: 80%;
+                    background-color:lightblue;
+                    color: black;
+                    text-align: center;
+                    margin: auto;
+                    border-style: solid;
+                    border-width: medium;
+                    border-color: black;
+                    width:auto;
+                }  
+        </style>
+        <p style = "color :blue">
+                <table id = "medallero">
+                    <tr style="font-size: large">
+                        <th>Country</th>
+                        <th>Gold</th>
+                        <th>Silver</th>
+                        <th>Bronze</th>
+
+                    </tr>
+                    {%for i in array%}  
+                        <tr>
+                               <td>{{i._name}}</td>
+                               <td>{{i._gold}}</td> 
+                               <td>{{i._silver}}</td>
+                               <td>{{i._bronze}}</td>
+                        </tr>
+                    {%endfor%}
+                     
+                </table>
+                
+        </p>
+    </body>
+    
+
+</html>

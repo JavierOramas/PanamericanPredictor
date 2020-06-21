@@ -1,0 +1,1335 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2019.7.17)  18 JUL 2019 11:42
+entering extended mode
+**New.tex
+("D:\Work\Practicas Laborales\Informe Practicas Laborales\New.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
+("C:\Program Files (x86)\MiKTeX 2.9 New\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9 New\tex\latex\base\size12.clo"
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.9 New\tex\latex\ams\math\amsmath.sty"
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files (x86)\MiKTeX 2.9 New\tex\latex\ams\math\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files (x86)\MiKTeX 2.9 New\tex\latex\ams\math\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+("C:\Program Files (x86)\MiKTeX 2.9 New\tex\latex\ams\math\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+("C:\Program Files (x86)\MiKTeX 2.9 New\tex\latex\ams\math\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks15
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+("C:\Program Files (x86)\MiKTeX 2.9 New\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+)
+("C:\Program Files (x86)\MiKTeX 2.9 New\tex\latex\ams\classes\amsthm.sty"
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks19
+\thm@bodyfont=\toks20
+\thm@headfont=\toks21
+\thm@notefont=\toks22
+\thm@headpunct=\toks23
+\thm@preskip=\skip46
+\thm@postskip=\skip47
+\thm@headsep=\skip48
+\dth@everypar=\toks24
+)
+("C:\Program Files (x86)\MiKTeX 2.9 New\tex\latex\base\inputenc.sty"
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks25
+\inpenc@posthook=\toks26
+
+("C:\Program Files (x86)\MiKTeX 2.9 New\tex\latex\base\latin1.def"
+File: latin1.def 2008/03/30 v1.1d Input encoding file
+))
+("C:\Program Files (x86)\MiKTeX 2.9 New\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+("C:\Program Files (x86)\MiKTeX 2.9 New\tex\latex\base\t1enc.def"
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+("C:\Program Files (x86)\MiKTeX 2.9 New\tex\generic\babel\babel.sty"
+Package: babel 2008/07/08 v3.8m The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files (x86)\MiKTeX 2.9 New\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files (x86)\MiKTeX 2.9 New\tex\generic\babel\spanish.ldf"
+Language: spanish.ldf 2009/01/02 v5.0h Spanish support from the babel system
+
+("C:\Program Files (x86)\MiKTeX 2.9 New\tex\generic\babel\babel.def"
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count99
+\U@D=\dimen112
+)
+\es@datefmt=\count100
+\es@quottoks=\toks27
+\es@quotdepth=\count101
+Package babel Info: Making " an active character on input line 492.
+Package babel Info: Making . an active character on input line 585.
+Package babel Info: Making < an active character on input line 630.
+Package babel Info: Making > an active character on input line 630.
+))
+("C:\Program Files (x86)\MiKTeX 2.9 New\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9 New\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks28
+)
+("C:\Program Files (x86)\MiKTeX 2.9 New\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9 New\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9 New\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9 New\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9 New\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9 New\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count102
+))
+\Gin@req@height=\dimen113
+\Gin@req@width=\dimen114
+)
+("D:\Work\Practicas Laborales\Informe Practicas Laborales\New.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+
+("C:\Program Files (x86)\MiKTeX 2.9 New\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count103
+\scratchdimen=\dimen115
+\scratchbox=\box28
+\nofMPsegments=\count104
+\nofMParguments=\count105
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count106
+\MPscratchDim=\dimen116
+\MPnumerator=\count107
+\makeMPintoPDFobject=\count108
+\everyMPtoPDFconversion=\toks30
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 34.
+ ("C:\Program Files (x86)\MiKTeX 2.9 New\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 34.
+
+("C:\Program Files (x86)\MiKTeX 2.9 New\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+! Undefined control sequence.
+<recently read> \name 
+                      
+l.34 \maketitle
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \name 
+                      
+l.34 \maketitle
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \name 
+                      
+l.34 \maketitle
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \name 
+                      
+l.34 \maketitle
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+! Misplaced \omit.
+\@cline #1-#2\@nil ->\omit 
+                           \@multicnt #1\advance \@multispan \m@ne \ifnum \@...
+l.37 	\cline{-}
+               El presente art\'{i}culo aborda el tema de realizar una predi...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.37 	\cline{-}
+               El presente art\'{i}culo aborda el tema de realizar una predi...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.37 	\cline{-}
+               El presente art\'{i}culo aborda el tema de realizar una predi...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.37 	\cline{-}
+               El presente art\'{i}culo aborda el tema de realizar una predi...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Leaders not followed by proper glue.
+<to be read again> 
+                   \hfill 
+l.37 	\cline{-}
+               El presente art\'{i}culo aborda el tema de realizar una predi...
+You should say `\leaders <box or rule><hskip or vskip>'.
+I found the <box or rule>, but there's no suitable
+<hskip or vskip>, so I'm ignoring these leaders.
+
+! Misplaced \cr.
+\@cline ...le \@height \arrayrulewidth \hfill \cr 
+                                                  \noalign {\vskip -\arrayru...
+l.37 	\cline{-}
+               El presente art\'{i}culo aborda el tema de realizar una predi...
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \noalign.
+\@cline ...ht \arrayrulewidth \hfill \cr \noalign 
+                                                  {\vskip -\arrayrulewidth }
+l.37 	\cline{-}
+               El presente art\'{i}culo aborda el tema de realizar una predi...
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \omit.
+\@cline #1-#2\@nil ->\omit 
+                           \@multicnt #1\advance \@multispan \m@ne \ifnum \@...
+l.38  	\cline{-}
+                 Para ello se presentar\'{a} a continuaci\'{o}n conceptos in...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.38  	\cline{-}
+                 Para ello se presentar\'{a} a continuaci\'{o}n conceptos in...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.38  	\cline{-}
+                 Para ello se presentar\'{a} a continuaci\'{o}n conceptos in...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.38  	\cline{-}
+                 Para ello se presentar\'{a} a continuaci\'{o}n conceptos in...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Misplaced \cr.
+\@cline ...le \@height \arrayrulewidth \hfill \cr 
+                                                  \noalign {\vskip -\arrayru...
+l.38  	\cline{-}
+                 Para ello se presentar\'{a} a continuaci\'{o}n conceptos in...
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \noalign.
+\@cline ...ht \arrayrulewidth \hfill \cr \noalign 
+                                                  {\vskip -\arrayrulewidth }
+l.38  	\cline{-}
+                 Para ello se presentar\'{a} a continuaci\'{o}n conceptos in...
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \omit.
+\@cline #1-#2\@nil ->\omit 
+                           \@multicnt #1\advance \@multispan \m@ne \ifnum \@...
+l.39 	\cline{-}
+                Inteligencia:Facultad intelectual con que se captan y forman...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.39 	\cline{-}
+                Inteligencia:Facultad intelectual con que se captan y forman...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.39 	\cline{-}
+                Inteligencia:Facultad intelectual con que se captan y forman...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.39 	\cline{-}
+                Inteligencia:Facultad intelectual con que se captan y forman...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Misplaced \cr.
+\@cline ...le \@height \arrayrulewidth \hfill \cr 
+                                                  \noalign {\vskip -\arrayru...
+l.39 	\cline{-}
+                Inteligencia:Facultad intelectual con que se captan y forman...
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \noalign.
+\@cline ...ht \arrayrulewidth \hfill \cr \noalign 
+                                                  {\vskip -\arrayrulewidth }
+l.39 	\cline{-}
+                Inteligencia:Facultad intelectual con que se captan y forman...
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \omit.
+\@cline #1-#2\@nil ->\omit 
+                           \@multicnt #1\advance \@multispan \m@ne \ifnum \@...
+l.40 	\cline{-}
+                Aprendizaje: Aprendizaje es un cambio en la disposici\'{o}n ...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.40 	\cline{-}
+                Aprendizaje: Aprendizaje es un cambio en la disposici\'{o}n ...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.40 	\cline{-}
+                Aprendizaje: Aprendizaje es un cambio en la disposici\'{o}n ...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.40 	\cline{-}
+                Aprendizaje: Aprendizaje es un cambio en la disposici\'{o}n ...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Misplaced \cr.
+\@cline ...le \@height \arrayrulewidth \hfill \cr 
+                                                  \noalign {\vskip -\arrayru...
+l.40 	\cline{-}
+                Aprendizaje: Aprendizaje es un cambio en la disposici\'{o}n ...
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \noalign.
+\@cline ...ht \arrayrulewidth \hfill \cr \noalign 
+                                                  {\vskip -\arrayrulewidth }
+l.40 	\cline{-}
+                Aprendizaje: Aprendizaje es un cambio en la disposici\'{o}n ...
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \omit.
+\@cline #1-#2\@nil ->\omit 
+                           \@multicnt #1\advance \@multispan \m@ne \ifnum \@...
+l.41 	\cline{-}
+                Inteligencia Artificial: La Inteligencia Artificial es la ci...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.41 	\cline{-}
+                Inteligencia Artificial: La Inteligencia Artificial es la ci...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.41 	\cline{-}
+                Inteligencia Artificial: La Inteligencia Artificial es la ci...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.41 	\cline{-}
+                Inteligencia Artificial: La Inteligencia Artificial es la ci...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Misplaced \cr.
+\@cline ...le \@height \arrayrulewidth \hfill \cr 
+                                                  \noalign {\vskip -\arrayru...
+l.41 	\cline{-}
+                Inteligencia Artificial: La Inteligencia Artificial es la ci...
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \noalign.
+\@cline ...ht \arrayrulewidth \hfill \cr \noalign 
+                                                  {\vskip -\arrayrulewidth }
+l.41 	\cline{-}
+                Inteligencia Artificial: La Inteligencia Artificial es la ci...
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \omit.
+\@cline #1-#2\@nil ->\omit 
+                           \@multicnt #1\advance \@multispan \m@ne \ifnum \@...
+l.42 	\cline{-}
+                Los cient\'{i}ficos que han abordado y abordan este campo se...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.42 	\cline{-}
+                Los cient\'{i}ficos que han abordado y abordan este campo se...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.42 	\cline{-}
+                Los cient\'{i}ficos que han abordado y abordan este campo se...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.42 	\cline{-}
+                Los cient\'{i}ficos que han abordado y abordan este campo se...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Misplaced \cr.
+\@cline ...le \@height \arrayrulewidth \hfill \cr 
+                                                  \noalign {\vskip -\arrayru...
+l.42 	\cline{-}
+                Los cient\'{i}ficos que han abordado y abordan este campo se...
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \noalign.
+\@cline ...ht \arrayrulewidth \hfill \cr \noalign 
+                                                  {\vskip -\arrayrulewidth }
+l.42 	\cline{-}
+                Los cient\'{i}ficos que han abordado y abordan este campo se...
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+[2]
+! Misplaced \omit.
+\@cline #1-#2\@nil ->\omit 
+                           \@multicnt #1\advance \@multispan \m@ne \ifnum \@...
+l.52 \cline{-}
+               Ante todo se procedi\'{o} a la recopilaci\'{o}n de los datos ...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.52 \cline{-}
+               Ante todo se procedi\'{o} a la recopilaci\'{o}n de los datos ...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.52 \cline{-}
+               Ante todo se procedi\'{o} a la recopilaci\'{o}n de los datos ...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.52 \cline{-}
+               Ante todo se procedi\'{o} a la recopilaci\'{o}n de los datos ...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Leaders not followed by proper glue.
+<to be read again> 
+                   \hfill 
+l.52 \cline{-}
+               Ante todo se procedi\'{o} a la recopilaci\'{o}n de los datos ...
+You should say `\leaders <box or rule><hskip or vskip>'.
+I found the <box or rule>, but there's no suitable
+<hskip or vskip>, so I'm ignoring these leaders.
+
+! Misplaced \cr.
+\@cline ...le \@height \arrayrulewidth \hfill \cr 
+                                                  \noalign {\vskip -\arrayru...
+l.52 \cline{-}
+               Ante todo se procedi\'{o} a la recopilaci\'{o}n de los datos ...
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \noalign.
+\@cline ...ht \arrayrulewidth \hfill \cr \noalign 
+                                                  {\vskip -\arrayrulewidth }
+l.52 \cline{-}
+               Ante todo se procedi\'{o} a la recopilaci\'{o}n de los datos ...
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \omit.
+\@cline #1-#2\@nil ->\omit 
+                           \@multicnt #1\advance \@multispan \m@ne \ifnum \@...
+l.53 \cline{-}
+               Una vez obtenidos los datos a procesar se impuso la necesidad...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.53 \cline{-}
+               Una vez obtenidos los datos a procesar se impuso la necesidad...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.53 \cline{-}
+               Una vez obtenidos los datos a procesar se impuso la necesidad...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.53 \cline{-}
+               Una vez obtenidos los datos a procesar se impuso la necesidad...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Misplaced \cr.
+\@cline ...le \@height \arrayrulewidth \hfill \cr 
+                                                  \noalign {\vskip -\arrayru...
+l.53 \cline{-}
+               Una vez obtenidos los datos a procesar se impuso la necesidad...
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \noalign.
+\@cline ...ht \arrayrulewidth \hfill \cr \noalign 
+                                                  {\vskip -\arrayrulewidth }
+l.53 \cline{-}
+               Una vez obtenidos los datos a procesar se impuso la necesidad...
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \omit.
+\@cline #1-#2\@nil ->\omit 
+                           \@multicnt #1\advance \@multispan \m@ne \ifnum \@...
+l.54 \cline{-}
+               Cuando se pretende predecir un resultado, las personas con co...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.54 \cline{-}
+               Cuando se pretende predecir un resultado, las personas con co...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.54 \cline{-}
+               Cuando se pretende predecir un resultado, las personas con co...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.54 \cline{-}
+               Cuando se pretende predecir un resultado, las personas con co...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Misplaced \cr.
+\@cline ...le \@height \arrayrulewidth \hfill \cr 
+                                                  \noalign {\vskip -\arrayru...
+l.54 \cline{-}
+               Cuando se pretende predecir un resultado, las personas con co...
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \noalign.
+\@cline ...ht \arrayrulewidth \hfill \cr \noalign 
+                                                  {\vskip -\arrayrulewidth }
+l.54 \cline{-}
+               Cuando se pretende predecir un resultado, las personas con co...
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \omit.
+\@cline #1-#2\@nil ->\omit 
+                           \@multicnt #1\advance \@multispan \m@ne \ifnum \@...
+l.55 \cline{-}
+               Para el desarrollo de dichos algoritmos se utilizaron las sig...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.55 \cline{-}
+               Para el desarrollo de dichos algoritmos se utilizaron las sig...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.55 \cline{-}
+               Para el desarrollo de dichos algoritmos se utilizaron las sig...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.55 \cline{-}
+               Para el desarrollo de dichos algoritmos se utilizaron las sig...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Misplaced \cr.
+\@cline ...le \@height \arrayrulewidth \hfill \cr 
+                                                  \noalign {\vskip -\arrayru...
+l.55 \cline{-}
+               Para el desarrollo de dichos algoritmos se utilizaron las sig...
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \noalign.
+\@cline ...ht \arrayrulewidth \hfill \cr \noalign 
+                                                  {\vskip -\arrayrulewidth }
+l.55 \cline{-}
+               Para el desarrollo de dichos algoritmos se utilizaron las sig...
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \omit.
+\@cline #1-#2\@nil ->\omit 
+                           \@multicnt #1\advance \@multispan \m@ne \ifnum \@...
+l.62 \cline{-}
+               Pandas es la librer\'{i}a que permite importar los datos alma...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.62 \cline{-}
+               Pandas es la librer\'{i}a que permite importar los datos alma...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.62 \cline{-}
+               Pandas es la librer\'{i}a que permite importar los datos alma...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.62 \cline{-}
+               Pandas es la librer\'{i}a que permite importar los datos alma...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Leaders not followed by proper glue.
+<to be read again> 
+                   \hfill 
+l.62 \cline{-}
+               Pandas es la librer\'{i}a que permite importar los datos alma...
+You should say `\leaders <box or rule><hskip or vskip>'.
+I found the <box or rule>, but there's no suitable
+<hskip or vskip>, so I'm ignoring these leaders.
+
+! Misplaced \cr.
+\@cline ...le \@height \arrayrulewidth \hfill \cr 
+                                                  \noalign {\vskip -\arrayru...
+l.62 \cline{-}
+               Pandas es la librer\'{i}a que permite importar los datos alma...
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \noalign.
+\@cline ...ht \arrayrulewidth \hfill \cr \noalign 
+                                                  {\vskip -\arrayrulewidth }
+l.62 \cline{-}
+               Pandas es la librer\'{i}a que permite importar los datos alma...
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \omit.
+\@cline #1-#2\@nil ->\omit 
+                           \@multicnt #1\advance \@multispan \m@ne \ifnum \@...
+l.63 \cline{-}
+               Sklearn contiene ya implementados los algoritmos de Machine L...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.63 \cline{-}
+               Sklearn contiene ya implementados los algoritmos de Machine L...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.63 \cline{-}
+               Sklearn contiene ya implementados los algoritmos de Machine L...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.63 \cline{-}
+               Sklearn contiene ya implementados los algoritmos de Machine L...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Misplaced \cr.
+\@cline ...le \@height \arrayrulewidth \hfill \cr 
+                                                  \noalign {\vskip -\arrayru...
+l.63 \cline{-}
+               Sklearn contiene ya implementados los algoritmos de Machine L...
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \noalign.
+\@cline ...ht \arrayrulewidth \hfill \cr \noalign 
+                                                  {\vskip -\arrayrulewidth }
+l.63 \cline{-}
+               Sklearn contiene ya implementados los algoritmos de Machine L...
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \omit.
+\@cline #1-#2\@nil ->\omit 
+                           \@multicnt #1\advance \@multispan \m@ne \ifnum \@...
+l.64 \cline{-}
+               Matplotlib permite graficar los datos para una mejor visualiz...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.64 \cline{-}
+               Matplotlib permite graficar los datos para una mejor visualiz...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.64 \cline{-}
+               Matplotlib permite graficar los datos para una mejor visualiz...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.64 \cline{-}
+               Matplotlib permite graficar los datos para una mejor visualiz...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Misplaced \cr.
+\@cline ...le \@height \arrayrulewidth \hfill \cr 
+                                                  \noalign {\vskip -\arrayru...
+l.64 \cline{-}
+               Matplotlib permite graficar los datos para una mejor visualiz...
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \noalign.
+\@cline ...ht \arrayrulewidth \hfill \cr \noalign 
+                                                  {\vskip -\arrayrulewidth }
+l.64 \cline{-}
+               Matplotlib permite graficar los datos para una mejor visualiz...
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \omit.
+\@cline #1-#2\@nil ->\omit 
+                           \@multicnt #1\advance \@multispan \m@ne \ifnum \@...
+l.65 \cline{-}
+               Numpy permite convertir las listas de datos en array para un ...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.65 \cline{-}
+               Numpy permite convertir las listas de datos en array para un ...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.65 \cline{-}
+               Numpy permite convertir las listas de datos en array para un ...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.65 \cline{-}
+               Numpy permite convertir las listas de datos en array para un ...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Misplaced \cr.
+\@cline ...le \@height \arrayrulewidth \hfill \cr 
+                                                  \noalign {\vskip -\arrayru...
+l.65 \cline{-}
+               Numpy permite convertir las listas de datos en array para un ...
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \noalign.
+\@cline ...ht \arrayrulewidth \hfill \cr \noalign 
+                                                  {\vskip -\arrayrulewidth }
+l.65 \cline{-}
+               Numpy permite convertir las listas de datos en array para un ...
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+<first_part.png, id=13, 575.14874pt x 1029.8475pt>
+File: first_part.png Graphic file (type png)
+ <use first_part.png>
+Package pdftex.def Info: first_part.png used on input line 67.
+(pdftex.def)             Requested size: 402.60138pt x 720.88835pt.
+
+
+LaTeX Warning: Float too large for page by 144.97789pt on input line 68.
+
+[3] [4 <D:/Work/Practicas Laborales/Informe Practicas Laborales/first_part.png>
+]
+! Misplaced \omit.
+\@cline #1-#2\@nil ->\omit 
+                           \@multicnt #1\advance \@multispan \m@ne \ifnum \@...
+l.70 \cline{-}
+               En este fragmento se puede apreciar como se importan las libr...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.70 \cline{-}
+               En este fragmento se puede apreciar como se importan las libr...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.70 \cline{-}
+               En este fragmento se puede apreciar como se importan las libr...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.70 \cline{-}
+               En este fragmento se puede apreciar como se importan las libr...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Leaders not followed by proper glue.
+<to be read again> 
+                   \hfill 
+l.70 \cline{-}
+               En este fragmento se puede apreciar como se importan las libr...
+You should say `\leaders <box or rule><hskip or vskip>'.
+I found the <box or rule>, but there's no suitable
+<hskip or vskip>, so I'm ignoring these leaders.
+
+! Misplaced \cr.
+\@cline ...le \@height \arrayrulewidth \hfill \cr 
+                                                  \noalign {\vskip -\arrayru...
+l.70 \cline{-}
+               En este fragmento se puede apreciar como se importan las libr...
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \noalign.
+\@cline ...ht \arrayrulewidth \hfill \cr \noalign 
+                                                  {\vskip -\arrayrulewidth }
+l.70 \cline{-}
+               En este fragmento se puede apreciar como se importan las libr...
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+<second_part.png, id=20, 572.1375pt x 1023.825pt>
+File: second_part.png Graphic file (type png)
+ <use second_part.png>
+Package pdftex.def Info: second_part.png used on input line 73.
+(pdftex.def)             Requested size: 400.49352pt x 716.6726pt.
+
+
+LaTeX Warning: Float too large for page by 140.76215pt on input line 74.
+
+[5] [6 <D:/Work/Practicas Laborales/Informe Practicas Laborales/second_part.png
+>] <third.png, id=29, 572.1375pt x 316.18124pt>
+File: third.png Graphic file (type png)
+ <use third.png>
+Package pdftex.def Info: third.png used on input line 79.
+(pdftex.def)             Requested size: 228.85094pt x 126.47025pt.
+
+! Misplaced \omit.
+\@cline #1-#2\@nil ->\omit 
+                           \@multicnt #1\advance \@multispan \m@ne \ifnum \@...
+l.81 \cline{-}
+               Con el c\'{o}digo anterior dado los diferentes grados del pol...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.81 \cline{-}
+               Con el c\'{o}digo anterior dado los diferentes grados del pol...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.81 \cline{-}
+               Con el c\'{o}digo anterior dado los diferentes grados del pol...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.81 \cline{-}
+               Con el c\'{o}digo anterior dado los diferentes grados del pol...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Leaders not followed by proper glue.
+<to be read again> 
+                   \hfill 
+l.81 \cline{-}
+               Con el c\'{o}digo anterior dado los diferentes grados del pol...
+You should say `\leaders <box or rule><hskip or vskip>'.
+I found the <box or rule>, but there's no suitable
+<hskip or vskip>, so I'm ignoring these leaders.
+
+! Misplaced \cr.
+\@cline ...le \@height \arrayrulewidth \hfill \cr 
+                                                  \noalign {\vskip -\arrayru...
+l.81 \cline{-}
+               Con el c\'{o}digo anterior dado los diferentes grados del pol...
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \noalign.
+\@cline ...ht \arrayrulewidth \hfill \cr \noalign 
+                                                  {\vskip -\arrayrulewidth }
+l.81 \cline{-}
+               Con el c\'{o}digo anterior dado los diferentes grados del pol...
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+<19_primeros_polinomio_grado_2.png, id=30, 230.66174pt x 246.32025pt>
+File: 19_primeros_polinomio_grado_2.png Graphic file (type png)
+
+<use 19_primeros_polinomio_grado_2.png>
+Package pdftex.def Info: 19_primeros_polinomio_grado_2.png used on input line 8
+5.
+(pdftex.def)             Requested size: 230.66116pt x 246.31964pt.
+
+<19_primeros_polinomio_grado_4.png, id=31, 237.2865pt x 243.91125pt>
+File: 19_primeros_polinomio_grado_4.png Graphic file (type png)
+
+<use 19_primeros_polinomio_grado_4.png>
+Package pdftex.def Info: 19_primeros_polinomio_grado_4.png used on input line 9
+0.
+(pdftex.def)             Requested size: 237.2859pt x 243.91064pt.
+
+<19_primeros_prediccion_combinada.png, id=32, 249.3315pt x 248.72925pt>
+File: 19_primeros_prediccion_combinada.png Graphic file (type png)
+
+<use 19_primeros_prediccion_combinada.png>
+Package pdftex.def Info: 19_primeros_prediccion_combinada.png used on input lin
+e 95.
+(pdftex.def)             Requested size: 249.33087pt x 248.72864pt.
+ [7 <D:/Work/Practicas Laborales/Informe Practicas Laborales/third.png> <D:/Wor
+k/Practicas Laborales/Informe Practicas Laborales/19_primeros_polinomio_grado_2
+.png>] [8 <D:/Work/Practicas Laborales/Informe Practicas Laborales/19_primeros_
+polinomio_grado_4.png> <D:/Work/Practicas Laborales/Informe Practicas Laborales
+/19_primeros_prediccion_combinada.png>]
+! Misplaced \omit.
+\@cline #1-#2\@nil ->\omit 
+                           \@multicnt #1\advance \@multispan \m@ne \ifnum \@...
+l.100 \cline{-}
+                Como se pudo apreciar los resultados obtenidos por el progra...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.100 \cline{-}
+                Como se pudo apreciar los resultados obtenidos por el progra...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.100 \cline{-}
+                Como se pudo apreciar los resultados obtenidos por el progra...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.100 \cline{-}
+                Como se pudo apreciar los resultados obtenidos por el progra...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Leaders not followed by proper glue.
+<to be read again> 
+                   \hfill 
+l.100 \cline{-}
+                Como se pudo apreciar los resultados obtenidos por el progra...
+You should say `\leaders <box or rule><hskip or vskip>'.
+I found the <box or rule>, but there's no suitable
+<hskip or vskip>, so I'm ignoring these leaders.
+
+! Misplaced \cr.
+\@cline ...le \@height \arrayrulewidth \hfill \cr 
+                                                  \noalign {\vskip -\arrayru...
+l.100 \cline{-}
+                Como se pudo apreciar los resultados obtenidos por el progra...
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \noalign.
+\@cline ...ht \arrayrulewidth \hfill \cr \noalign 
+                                                  {\vskip -\arrayrulewidth }
+l.100 \cline{-}
+                Como se pudo apreciar los resultados obtenidos por el progra...
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+[9] <cuba_oro.png, id=44, 296.307pt x 213.79875pt>
+File: cuba_oro.png Graphic file (type png)
+ <use cuba_oro.png>
+Package pdftex.def Info: cuba_oro.png used on input line 106.
+(pdftex.def)             Requested size: 296.30627pt x 213.79822pt.
+
+<cuba_bronce.png, id=45, 302.93175pt x 208.98074pt>
+File: cuba_bronce.png Graphic file (type png)
+ <use cuba_bronce.png>
+Package pdftex.def Info: cuba_bronce.png used on input line 111.
+(pdftex.def)             Requested size: 302.931pt x 208.98022pt.
+
+<cuba_plata.png, id=46, 296.307pt x 204.765pt>
+File: cuba_plata.png Graphic file (type png)
+ <use cuba_plata.png>
+Package pdftex.def Info: cuba_plata.png used on input line 116.
+(pdftex.def)             Requested size: 296.30627pt x 204.76448pt.
+ [10 <D:/Work/Practicas Laborales/Informe Practicas Laborales/cuba_oro.png>] [1
+1 <D:/Work/Practicas Laborales/Informe Practicas Laborales/cuba_bronce.png> <D:
+/Work/Practicas Laborales/Informe Practicas Laborales/cuba_plata.png>]
+("D:\Work\Practicas Laborales\Informe Practicas Laborales\New.aux") ) 
+Here is how much of TeX's memory you used:
+ 2761 strings out of 494045
+ 34839 string characters out of 3144357
+ 91416 words of memory out of 3000000
+ 6030 multiletter control sequences out of 15000+200000
+ 11833 words of font info for 33 fonts, out of 3000000 for 9000
+ 715 hyphenation exceptions out of 8191
+ 27i,7n,27p,705b,234s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Progra
+m Files (x86)/MiKTeX 2.9 New/fonts/enc/dvips/cm-super/cm-super-t1.enc}<C:/Progr
+am Files (x86)/MiKTeX 2.9 New/fonts/type1/public/cm-super/sfbx1728.pfb><C:/Prog
+ram Files (x86)/MiKTeX 2.9 New/fonts/type1/public/cm-super/sfcc1200.pfb><C:/Pro
+gram Files (x86)/MiKTeX 2.9 New/fonts/type1/public/cm-super/sfrm1200.pfb><C:/Pr
+ogram Files (x86)/MiKTeX 2.9 New/fonts/type1/public/cm-super/sfrm1440.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.9 New/fonts/type1/public/cm-super/sfrm2488.pfb>
+Output written on New.pdf (11 pages, 373598 bytes).
+PDF statistics:
+ 71 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+
