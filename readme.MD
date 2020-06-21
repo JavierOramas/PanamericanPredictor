@@ -1,0 +1,1 @@
+modelo de prediccion para los panamericanos del 2019, utilizando tecnicas de Machine Learning basandse en los resultados de años anteriores se genera un regresor para cada grupo de medllas por pais, se obtuvieron excelentes resultados en la prediccion de los resultados de Cuba
